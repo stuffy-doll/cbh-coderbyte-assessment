@@ -25,3 +25,6 @@ I see the ticket breaking down to two parts.
 include the customer agent id as it relates to the agent and facility and include that data in the function's return.
 
 I created a mockup of the database and it's relations to help visualize and come up with a solution to the problem.
+
+![db](https://user-images.githubusercontent.com/97128550/200959791-28700c73-c54e-4c1f-a819-fa27910451b5.PNG)
+
